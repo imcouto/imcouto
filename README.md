@@ -4,17 +4,17 @@
 
 🚀 I'm a back end developer who loves learning new things and solving problems.
 
-👩‍💻 I'm currently working on freelance jobs
+👩‍💻 I'm currently working on freelance jobs.
 
-🧠 I'm currently learning domain driven design
+🧠 I'm currently learning domain driven design.
 
-👯‍♀️ I'm looking to collaborate on open source projects in languages that I master
+👯‍♀️ I'm looking to collaborate on open source projects in languages that I master.
 
-📫 How to reach me: [coutoozair@gmail.com](coutoozair@gmail.com)
+📫 How to reach me: [coutoozair@gmail.com](coutoozair@gmail.com).
 
-😄 He/Him
+😄 He/Him.
 
-⚡️ Fun fact: I love asian food
+⚡️ Fun fact: I love asian food.
 
 ## 🔗 Links
 
