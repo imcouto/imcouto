@@ -44,7 +44,7 @@
 
 ## Stats
 
-[![Marlon's GitHub stats](https://github-readme-stats.vercel.app/api?username=marlon-couto&hide_border=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Marlon's GitHub stats](https://github-readme-stats.vercel.app/api?username=marlon-couto&hide_border=true&theme=react&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marlon-couto&hide_border=true&layout=donut&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
