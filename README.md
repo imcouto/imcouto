@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=marlon-couto)
+
 # Hi, I'm Marlon! 👋
 
 🚀 I'm a back end developer who loves learning new things and solving problems.
