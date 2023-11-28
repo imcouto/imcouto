@@ -42,6 +42,6 @@
 
 ## 📊 Stats
 
-[![Marlon's GitHub stats](https://github-readme-stats.vercel.app/api?username=marlon-couto&bg_color=00000000&theme=nightowl&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marlon-couto&bg_color=00000000&theme=nightowl&hide_border=true&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-[![Marlon's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marloncouto&bg_color=00000000&theme=nightowl&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Marlon's GitHub stats](https://github-readme-stats.vercel.app/api?username=marlon-couto&bg_color=00000000&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marlon-couto&bg_color=00000000&theme=react&hide_border=true&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Marlon's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marloncouto&bg_color=00000000&theme=react&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
