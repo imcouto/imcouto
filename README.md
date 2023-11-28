@@ -16,13 +16,13 @@
 
 ⚡️ Fun fact: I love asian food.
 
-## 🔗 Links
+## Links
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://marloncouto.net/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-couto)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coutoozair@gmail.com)
 
-## 🛠 Skills
+## Skills
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -42,7 +42,7 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## 📊 Stats
+## Stats
 
 [![Marlon's GitHub stats](https://github-readme-stats.vercel.app/api?username=marlon-couto&hide_border=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
