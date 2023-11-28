@@ -17,11 +17,13 @@
 ⚡️ Fun fact: I love asian food
 
 ## 🔗 Links
+
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://marloncouto.net/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-couto)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coutoozair@gmail.com)
 
 ## 🛠 Skills
+
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -42,6 +44,8 @@
 
 ## 📊 Stats
 
-[![Marlon's GitHub stats](https://github-readme-stats.vercel.app/api?username=marlon-couto&bg_color=00000000&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marlon-couto&bg_color=00000000&theme=react&hide_border=true&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-[![Marlon's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marloncouto&bg_color=00000000&theme=react&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Marlon's GitHub stats](https://github-readme-stats.vercel.app/api?username=marlon-couto&hide_border=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marlon-couto&hide_border=true&layout=donut&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Marlon's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marloncouto&hide_border=true&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
