@@ -45,7 +45,4 @@
 ## Stats
 
 [![Marlon's GitHub stats](https://github-readme-stats.vercel.app/api?username=marlon-couto&hide_border=true&theme=react&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marlon-couto&hide_border=true&layout=donut&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Marlon's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marloncouto&hide_border=true&layout=compact&theme=react&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Marlon's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marloncouto&hide_border=true&layout=compact&theme=react&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
