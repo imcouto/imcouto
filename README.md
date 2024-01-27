@@ -4,7 +4,7 @@
 
 🚀 I'm a back end developer who loves learning new things and solving problems.
 
-👩‍💻 I'm currently working as a C# Software Engineer.
+👩‍💻 I'm currently working as a C# Developer.
 
 🧠 I'm currently learning domain driven design.
 
