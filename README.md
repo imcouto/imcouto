@@ -19,8 +19,6 @@
 ## Skills
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -34,4 +32,4 @@
 
 ## Stats
 
-[![Marlon's GitHub stats](https://github-readme-stats.vercel.app/api?username=marlon-couto&hide_border=true&theme=react&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Marlon's GitHub stats](https://github-readme-stats.vercel.app/api?username=marlon-couto&hide_border=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
