@@ -3,7 +3,7 @@
 # Hi, I'm Marlon! 👋
 
 - 🚀 I'm a developer who loves learning new things and solving problems.
-- 👩‍💻 I'm currently working as a Front-End Developer.
+- 👩‍💻 I'm currently working as a Full-Stack Developer.
 - 🧠 I'm currently learning domain driven design.
 - 👯‍♀️ I'm looking to collaborate on open source projects in languages that I domain.
 - 📫 How to reach me: [coutoozair@gmail.com](coutoozair@gmail.com).
