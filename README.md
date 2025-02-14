@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=marlon-couto)
+![](https://komarev.com/ghpvc/?username=imcouto)
 
 # Hi, I'm Marlon! 👋
 
@@ -14,7 +14,7 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://marloncouto.net/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-couto)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coutoozair@gmail.com)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marloncouto@codosim.com)
 
 ## Skills
 
